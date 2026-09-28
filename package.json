@@ -1,0 +1,13 @@
+{
+  "name": "aije-web",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Sitio corporativo de AIJE Comercializadora",
+  "scripts": {
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
+
